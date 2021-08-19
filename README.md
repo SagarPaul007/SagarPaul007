@@ -3,8 +3,7 @@
 <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif?cid=ecf05e474uxzwtyux2ov5vrasr10vc7wbuv13s36z2t6ic8v&rid=giphy.gif&ct=s" width= 200px>
 
 ### Mathematics Graduate 🤘 Learning Full-Stack Web development 💻 On a lifelong journey of learning 💪 
-<img src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif?cid=ecf05e474uxzwtyux2ov5vrasr10vc7wbuv13s36z2t6ic8v&rid=giphy.gif&ct=s">
-
+<img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif?cid=ecf05e474uxzwtyux2ov5vrasr10vc7wbuv13s36z2t6ic8v&rid=giphy.gif&ct=s" width= 400px>
 <hr>
 
 - 🔭 I’m currently working on ... My Portfolio
@@ -16,4 +15,4 @@
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I think I'm the chosen one ⚡
 
-<img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif?cid=ecf05e474uxzwtyux2ov5vrasr10vc7wbuv13s36z2t6ic8v&rid=giphy.gif&ct=s" width= 400px>
+<img src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif?cid=ecf05e474uxzwtyux2ov5vrasr10vc7wbuv13s36z2t6ic8v&rid=giphy.gif&ct=s">
