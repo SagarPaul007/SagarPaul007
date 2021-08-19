@@ -22,16 +22,20 @@
 
 ## Skills:-
 <div style="display: flex">
-  <ul>
-    <li>Git</li>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
-  </ul>
-  <ul>
-    <li>Python</li>
-    <li>Flask</li>
-    <li>Java</li>
-    <li>DSA</li>
-  </ul>
+  <div>
+    <ul>
+      <li>Git</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JavaScript</li>
+    </ul>
+  </div>
+  <div>
+    <ul>
+      <li>Python</li>
+      <li>Flask</li>
+      <li>Java</li>
+      <li>DSA</li>
+    </ul>
+  </div>
 </div>
