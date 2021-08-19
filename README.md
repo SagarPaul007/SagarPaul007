@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## I am Sagar Paul
-<a href="https://giphy.com/stickers/code-coding-coder-iIGT8Y1rOYhBpdHh1C"></a>
+<img src="https://giphy.com/stickers/code-coding-coder-iIGT8Y1rOYhBpdHh1C">
 #### Mathematics Graduate 🤘 Learning Full-Stack Web development 💻 On a lifelong journey of learning 💪 
 
 - 🔭 I’m currently working on ... My Portfolio
