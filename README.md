@@ -1,6 +1,6 @@
 ### Hi there 👋
-#### I am Sagar Paul
-##### Mathematics Graduate 🤘 Learning Full-Stack Web development 💻 On a lifelong journey of learning 💪 
+## I am Sagar Paul
+#### Mathematics Graduate 🤘 Learning Full-Stack Web development 💻 On a lifelong journey of learning 💪 
 
 - 🔭 I’m currently working on ... My Portfolio
 - 🌱 I’m currently learning ... Node.js
