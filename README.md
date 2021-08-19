@@ -19,3 +19,15 @@
 - ⚡ Fun fact: ... I think I'm the chosen one ⚡
 
 <img src="https://media.giphy.com/media/2sMOUSy658zgS1CjY7/giphy.gif?cid=ecf05e474uxzwtyux2ov5vrasr10vc7wbuv13s36z2t6ic8v&rid=giphy.gif&ct=s">
+<hr>
+
+## Skills:-
+<ul>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JavaScript</li>
+  <li>Python</li>
+  <li>Flask</li>
+  <li>Java</li>
+  <li>DSA</li>
+</ul>
