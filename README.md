@@ -10,7 +10,7 @@
 <hr>
 
 - 🔭 I’m currently working on ... My Portfolio
-- 🌱 I’m currently learning ... Node.js
+- 🌱 I’m currently learning ... React.js
 - 👯 I’m looking to collaborate on ... Open Source Projects
 - 🤔 I’m looking for ... Internship opportunities
 - 💬 Ask me about ... JavaScript and DSA
