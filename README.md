@@ -1,7 +1,6 @@
 ## Hi there 👋
 # I am Sagar Paul
 <div style="display: flex">
-  <img src="https://media.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy.gif?cid=ecf05e474uxzwtyux2ov5vrasr10vc7wbuv13s36z2t6ic8v&rid=giphy.gif&ct=s" width= 200px>
   <img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif?cid=ecf05e474uxzwtyux2ov5vrasr10vc7wbuv13s36z2t6ic8v&rid=giphy.gif&ct=s" width= 220px>
 </div>
 
@@ -12,10 +11,11 @@
 - 🔭 I’m currently working on ... My Portfolio
 - 🌱 I’m currently learning ... React.js
 - 👯 I’m looking to collaborate on ... Open Source Projects
-- 🤔 I’m looking for ... Internship opportunities
+- 🤔 I’m looking for ... FrontEnd developer role
 - 💬 Ask me about ... JavaScript and DSA
 - 📫 How to reach me: ... [Twitter](https://twitter.com/iamSagarPaul)
 - 😄 Pronouns: ... He/Him
+- 🌚 Email: sagarpaul2k16@gmail.com
 - ⚡ Fun fact: ... I think I'm the chosen one ⚡
 
 <br>
