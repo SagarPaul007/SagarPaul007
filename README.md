@@ -1,14 +1,14 @@
 ## Hi there 👋
 # I am Sagar Paul
-<div style="display: flex">
+<br>
   <img src="https://media.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif?cid=ecf05e474uxzwtyux2ov5vrasr10vc7wbuv13s36z2t6ic8v&rid=giphy.gif&ct=s" width= 220px>
-</div>
 
 ### Mathematics Graduate 🤘 Learning Full-Stack Web development 💻 On a lifelong journey of learning 💪 
 
 <hr>
 
-- 🔭 I’m currently working on ... My Portfolio
+- 🔥 Portfolio Site ... https://sagarpaul.netlify.app
+- 🔭 I’m currently working on ... Portfolio projects
 - 🌱 I’m currently learning ... React.js
 - 👯 I’m looking to collaborate on ... Open Source Projects
 - 🤔 I’m looking for ... FrontEnd developer role
@@ -22,7 +22,7 @@
 
 ```
 
-const skills = ["Git", "HTML", "CSS", "JavaScript", "Python", "Flask", "Java", "DSA"];
+const skills = ["Git", "HTML", "CSS", "JavaScript", "React", "Redux", "Node.js", "Express", "MongoDB", "DSA"];
 
 skills.forEach(skill => {
   alert(`I know ${skill}`);
