@@ -8,7 +8,7 @@
 
 - 🔥 Portfolio Site ... https://sagarpaul.netlify.app
 - 🔭 I’m currently working on ... Portfolio projects
-- 🌱 I’m currently learning ... React.js
+- 🌱 I’m currently learning ... Socket.io
 - 👯 I’m looking to collaborate on ... Open Source Projects
 - 🤔 I’m looking for ... FrontEnd developer role
 - 💬 Ask me about ... JavaScript and DSA
