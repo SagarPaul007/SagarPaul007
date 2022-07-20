@@ -20,7 +20,7 @@
 
 ```
 
-const skills = ["Git", "HTML", "CSS", "JavaScript", "React", "Node.js", "Express", "MongoDB", "Typescript", "Graphql", "DSA"];
+const skills = ["Git", "HTML", "CSS", "JavaScript", "React", "Node.js", "Express", "MongoDB", "Typescript", "Graphql"];
 
 skills.forEach(skill => {
   alert(`I know ${skill}`);
