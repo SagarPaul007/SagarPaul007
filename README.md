@@ -1,6 +1,5 @@
 ## Hi there 👋
 # I am Sagar Paul
-<br>
 
 ### Software Developer @RoaDo 💻 Mathematics Graduate 🤘 On a lifelong journey of learning 💪 
 
