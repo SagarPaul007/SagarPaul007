@@ -8,9 +8,8 @@
 
 - 🔥 Portfolio Site ... https://sagarpaul.netlify.app
 - 🔭 I’m currently working on ... Side Projects
-- 🌱 I’m currently learning ... Graphql
-- 👯 I’m looking to collaborate on ... Open Source Projects
-- 💬 Ask me about ... JavaScript and DSA
+- 🌱 I’m currently learning ... ui/ux
+- 💬 Ask me about ... MERN stack
 - 📫 How to reach me: ... [Twitter](https://twitter.com/iamSagarPaul)
 - 😄 Pronouns: ... He/Him
 - 🌚 Email: sagarpaul2k16@gmail.com
