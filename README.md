@@ -7,7 +7,7 @@
 
 - 🔥 Portfolio Site ... https://sagarpaul.netlify.app
 - 🔭 I’m currently working on ... Side Projects
-- 🌱 I’m currently learning ... ui/ux
+- 🌱 I’m currently learning ... python, ml, ai
 - 💬 Ask me about ... MERN stack
 - 📫 How to reach me: ... [Twitter](https://twitter.com/iamSagarPaul)
 - 😄 Pronouns: ... He/Him
